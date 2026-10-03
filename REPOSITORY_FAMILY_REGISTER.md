@@ -74,11 +74,11 @@ Additional preserved source:
 |---|---|
 | `ON-TRACK-Psychological-Command-Centre` | **CANONICAL** commercial psychology command centre |
 | `Psych-Savings` | **ACTIVE SIBLING** practice savings / non-clinical workflow |
-| `Mind-mates` | **ACTIVE SIBLING** client companion |
-| `Irene-s-assistant-` | **CANONICAL** Gigi / Irene executive assistant |
+| `Mind-mates` | **EXCLUDED / CLIENT-SPECIFIC** — preserve provenance; not an ON TRACK-owned commercial asset |
+| `Irene-s-assistant-` | **EXCLUDED / CLIENT-SPECIFIC GIGI LINEAGE** — preserve provenance; not an ON TRACK-owned commercial asset |
 | `My-psych` | **ACTIVE SIBLING** private Safe Connection app |
 | `My-session-` | **CANONICAL** Session Continuity standalone |
-| `The-mood-and-mind-client-trial` | **ACTIVE SIBLING** client trial; production PR #1 remains separately gated |
+| `The-mood-and-mind-client-trial` | **HISTORICAL CLIENT TRIAL / REFERENCE** — collaboration inactive; do not treat as an ON TRACK sales target |
 | `Irene-` | **HISTORICAL SPECIALISED SOURCE** — preserve debrief/support patterns |
 | `Clinician-command` | **HISTORICAL / REFERENCE** |
 | `Genevieve-health-irene` | **HISTORICAL / REFERENCE** |
@@ -89,10 +89,10 @@ Additional preserved source:
 | `Genevieve-health-psychology-v8` | **HISTORICAL / REFERENCE** |
 | `Genevieve-psychology` | **HISTORICAL / REFERENCE** |
 | `Genevieve-irene-clinic` | **HISTORICAL / REFERENCE** |
-| `Genevieve-health-irenev10` | **HISTORICAL / REFERENCE** earlier lightweight Gigi |
-| `Genevieve-health-Irene-v10` | **HISTORICAL ALIAS** |
-| `Gigi` | **HISTORICAL ALIAS** |
-| `Irenes-Mind-Mates-App` | **HISTORICAL ALIAS** |
+| `Genevieve-health-irenev10` | **HISTORICAL / EXCLUDED GIGI LINEAGE** |
+| `Genevieve-health-Irene-v10` | **HISTORICAL / EXCLUDED GIGI ALIAS** |
+| `Gigi` | **HISTORICAL / EXCLUDED ALIAS** — not an ON TRACK-owned commercial asset |
+| `Irenes-Mind-Mates-App` | **HISTORICAL / EXCLUDED MIND MATES ALIAS** |
 | `Map-Clinicians-Day` | **HISTORICAL ALIAS** |
 | `On-track-psychological-command-centre-` | **HISTORICAL ALIAS** |
 | `Session-` | **HISTORICAL / REFERENCE FRAGMENT** |
@@ -114,7 +114,7 @@ Additional preserved source:
 | `Restore` | **ACTIVE SIBLING** |
 | `genevieve-medication-safety` | **ACTIVE SIBLING** governed medication-safety product |
 | `on-track-support-competency` | **ACTIVE SIBLING** worker/support competency product |
-| `tracey727-on-track-life-navigator` | **RESERVED / NOT YET BUILT** |
+| `tracey727-on-track-life-navigator` | **RECOVERY TARGET — LIFE 0.0 ARCHIVED SOURCE EXISTS** — README corrected to recovery-pending; issue #18 tracks recovery and verification of `on-track-life-navigator-life-00.zip` before deployment |
 
 ## 8. Council family
 | Repository | Role |
@@ -253,3 +253,42 @@ These are intentionally recorded even though they are **not among the 119 existi
 | Physical / 3D Fabrication incubator | **INCUBATOR / ISSUE #16** | One family for CAD/spec/BOM/test provenance; includes Datsun heritage-accessory micro-product candidate |
 
 **SEISMIC note:** GENEVIEVE SEISMIC™ is already documented inside `genevieve-nature-no-borders` as a future extension. Do not create a duplicate SEISMIC repository during cleanup.
+
+
+---
+
+## 21. Ecosystem placement overlay for active/historical repositories omitted from the compressed family tree
+
+This section prevents valid repositories from becoming conceptual orphans merely because the high-level family tree uses fewer labels.
+
+| Repository / lineage | Ecosystem home | Treatment |
+|---|---|---|
+| `Tracey-listen` | Health / Personal Support | **CANONICAL PRIVATE LISTENS PRODUCT** — separate information domain |
+| `ADHD-` | Health / Personal Support | **CANONICAL PERSONAL ORGANISER** |
+| `My-session-` | Health / Personal Support / Psychology continuity | **CANONICAL SESSION CONTINUITY STANDALONE** |
+| `genevieve-health-navigator` | Health / Personal Support | **CANONICAL HEALTH NAVIGATOR** |
+| `Genevieve-Health-Tracey-Pilot` | Health / Personal Support | **CANONICAL LIFE COMPANION HEALTH-ONLY BUILD** |
+| `Grounded`, `Restore`, `My-psych` | Health / Consumer Personal Support | **PERSONAL / ACTIVE SIBLINGS** — commercial extraction only from clean generic templates |
+| `Gen-connect.1` | Consumer / Connection & Relationships | **CANONICAL PRIVATE CONNECTION SYSTEM** |
+| `Dating` | Consumer / Connection & Relationships | **ACTIVE PUBLIC/MULTI-USER SIBLING** |
+| `Relationship-` | Consumer / Household / Relationships | **HISTORICAL SEPARATE PROTOTYPE** |
+| `Synchronicity-` | Consumer / Reflection | **CANONICAL TAROT × ASTROLOGY PRODUCT** |
+| `genevieve-macro-system` | Enterprise / Operations | **CANONICAL BUSINESS PATTERN, WASTE & PREVENTION PRODUCT** |
+| `Tracey-s-Super-Computer` | Internal Tools & R&D Utilities | **CANONICAL PYTHON SUPER RESPONSE ENGINE** — not automatically a customer product |
+| `genevieve-super-response.` | Internal Tools & R&D Utilities | **WEB IMPLEMENTATION LINEAGE** — Cloudflare migration still required |
+| `Genevieve-Tracey-Super-Computer` | Internal Tools & R&D Utilities | **SEPARATE WINDOWS EDITION** |
+| Founder Command Centre / Global Operations Dashboard | ON TRACK Internal Control | **INTERNAL VIEW / SHARED CONTROL LINEAGE** — not standalone commercial products |
+
+Full cross-conversation and file routing: `FULL_CONVERSATION_FILE_ECOSYSTEM_RECONCILIATION_2026-10-03.md`.
+
+
+---
+
+## 22. Late-period file sweep corrections — 24 September to 3 October 2026
+
+| File / product | Ecosystem home | Treatment |
+|---|---|---|
+| ON TRACK Margin Guard™ | Finance / Enterprise | **PILOT SOURCE EXISTS** — job-margin leakage decision support; separate from Revenue Rescue; no dedicated repo yet |
+| ON TRACK Life Navigator LIFE 0.0 | Health / Personal Support / Life Navigation | **RECOVERY SOURCE EXISTS / ISSUE #18** — exact archived Worker/Neon/tests/docs package must be recovered and verified before runtime/deployment claims |
+| ON TRACK Bookkeeping System | ON TRACK Internal Control | **INTERNAL BUSINESS TOOL** — not a customer product |
+| Datsun Sunny Truck B120 3D package | Physical / 3D Fabrication | **CONTROLLED FABRICATION ASSET** — blueprint/STL/3MF/SCAD/print package; not road-vehicle engineering |

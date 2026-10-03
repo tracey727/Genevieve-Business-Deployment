@@ -84,3 +84,39 @@ Issue #16.
 Status: **INCUBATOR — ENGINEERING/TEST GATE BEFORE DEDICATED PRODUCT REPOS**. Route the completed small-car package and 1978–79 Datsun ute accessory concept here. Create product repositories only when controlled CAD/spec/BOM/test evidence exists.
 
 Full record: `PORTFOLIO_CLEANUP_ADDENDUM_2026-10-03.md`.
+
+
+---
+
+## Full historical lineage routing overlay
+
+For archive cleanup, use `FULL_CONVERSATION_FILE_ECOSYSTEM_RECONCILIATION_2026-10-03.md` as the cross-conversation/file overlay.
+
+### Food lineage
+Retail Allergy V10, Retailer Embedded Allergy V11, Personal Retail Allergy V12, Photo Food Safety V13, Learning/Reaction Tracker V14, No-Guess Food Safety V15, Stock/Recipe V16, Photo-First V17 and Local V18 are one historical lineage. Route safety/allergy/reaction capability to Food Safety; route pantry/stock/scanner/recipe capability to Family Budget Cookbook and, where appropriate, Stock Sense. Do not create one repository per version.
+
+### Construction/trades lineage
+Waterproofing Assistant, Waterproofing Quality Records, Painting Productivity & Cost Control, Painting Defect & Rework Prevention and historical construction workflow packs are capability donors to Enterprise/Civic/Usher configurations, not separate platforms.
+
+### Government accountability lineage
+The fourteen named programs remain layers of ON TRACK Australia / Government Financial Integrity, not fourteen products.
+
+### Personal/utility repositories
+LISTENS, ADHD, Session Continuity, Health Navigator, Life Companion, Connection/Relationship, Synchronicity/Tarot, Macro System and Super Response now have explicit ecosystem homes in the Repository Family Register.
+
+### Ownership boundary
+Mind Mates and GIGI/Irene Assistant repositories are preserved as client-specific/excluded provenance and must not be marketed as ON TRACK-owned commercial assets.
+
+
+### ON TRACK Margin Guard™
+Status: **PILOT SOURCE EXISTS — FINANCE / ENTERPRISE**.
+
+The archived local-only pilot monitors quoted price, budgeted cost, actual cost, job margin and leakage using GREEN/AMBER/RED review states. It is proactive job-margin decision support and must remain separate from Revenue Rescue. No dedicated repository is required until a real commercial/customer gate justifies one.
+
+### ON TRACK Life Navigator — LIFE 0.0
+Status: **RECOVERY SOURCE IDENTIFIED**.
+
+The Library contains `on-track-life-navigator-life-00.zip` with Cloudflare Worker source, Neon migration, tests, architecture and safety-boundary documentation. The existing `tracey727-on-track-life-navigator` GitHub repository is only a stale placeholder. Recover the exact archive, verify it, then update the repository. Do not merge it with Health Navigator, Life Companion, LISTENS or ADHD by name alone.
+
+### Internal bookkeeping
+`ON_TRACK_Bookkeeping_System.xlsx` belongs to ON TRACK internal business control. It is not a customer product unless a clean generic commercial product is deliberately created later.

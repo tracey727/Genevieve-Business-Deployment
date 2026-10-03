@@ -256,3 +256,25 @@ The connected GitHub tool currently cannot create brand-new repositories. These 
 - **Physical / 3D Fabrication incubator** — issue #16. Keep the completed small-car package, 1978–79 Datsun accessory concept and other physical products in one incubator. Dedicated repos require controlled CAD/specification/BOM/test/supplier evidence.
 
 Full routing record: `PORTFOLIO_CLEANUP_ADDENDUM_2026-10-03.md`.
+
+---
+
+# J. Full conversation + file reconciliation
+
+A complete retrievable-history reconciliation is archived in `FULL_CONVERSATION_FILE_ECOSYSTEM_RECONCILIATION_2026-10-03.md`.
+
+Key corrections/additions:
+- explicitly places LISTENS, ADHD, Session Continuity, Health Navigator, Connection/Relationship, Synchronicity/Tarot, Macro System and Super Response in the ecosystem;
+- maps the Food V10–V18 lineage to Food Safety / Family Budget Cookbook / Stock Sense rather than separate products;
+- routes Waterproofing, painting, weather-broadcast and relocation concepts into Enterprise/Civic/Usher families;
+- records the full 14-program Government Accountability stack under ON TRACK Australia;
+- corrects Mind Mates / GIGI to excluded/client-specific provenance rather than ON TRACK-owned commercial assets;
+- preserves physical-product concepts under one fabrication incubator;
+- keeps private correspondence, complaints and personal evidence out of the commercial product register;
+- confirms GENEVIEVE SEISMIC™ is already correctly routed inside Nature Has No Borders;
+- leaves Revenue Rescue untouched.
+
+- late-period sweep also surfaced **ON TRACK Margin Guard™** as a distinct local-first job-margin pilot; route it to Finance / Enterprise and keep it separate from Revenue Rescue;
+- **ON TRACK Life Navigator** has a real LIFE 0.0 archived source package, so its status is recovery/verification rather than "not yet built";
+- **ON TRACK Bookkeeping System** is internal founder/business administration, not a customer product;
+- the Datsun B120 work is now recorded as an actual fabrication asset package rather than only an idea.
