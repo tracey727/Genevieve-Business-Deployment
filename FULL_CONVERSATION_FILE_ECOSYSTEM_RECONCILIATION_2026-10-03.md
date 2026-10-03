@@ -149,6 +149,10 @@ Police, Ambulance, Air Force and Master Command Centre V3 repositories remain hi
 - Social Security Continuity
 - Capital / Value Command
 - Cost Prevention
+- **ON TRACK Margin Guard™** — local-first pilot for job-level quoted-vs-budgeted-vs-actual margin leakage. It is proactive decision support, not invoice recovery, and remains separate from Revenue Rescue. No dedicated repository currently exists; preserve the HTML/ZIP pilot as a product candidate until a customer/commercial gate justifies repository creation.
+
+## Internal finance control
+- **ON TRACK Bookkeeping System** — founder/business administration spreadsheet. Keep under ON TRACK internal control; do not market as a customer product unless deliberately productised from a clean generic template.
 
 ## Historical / absorbed
 - PROFIT HUNTER™ — archived concept; do not reopen as a Revenue Rescue duplicate
@@ -280,7 +284,7 @@ These were present in repos/files but underrepresented in the master family tree
 - Grounded
 - Restore
 - My-psych / private Safe Connection
-- On Track Life Navigator — reserved
+- **ON TRACK Life Navigator — RECOVERY SOURCE IDENTIFIED.** The reserved GitHub repository is stale: the Library contains `on-track-life-navigator-life-00.zip`, a LIFE 0.0 Foundation & Safety Boundary source package with Cloudflare Worker code, Neon migration, tests, architecture and safety documentation. Recover and verify the exact archive into the reserved repository before deployment; do not merge it with Health Navigator, Life Companion, LISTENS or ADHD by name alone.
 - SafeLife™ — regulated hold
 
 ### LISTENS boundary
@@ -421,7 +425,7 @@ Keep one incubator family:
 - construction furniture lift / hoist
 - women-in-automotive smart leverage system
 - lightweight UPF 50+ sun-safety shirt
-- completed 3D small-car package
+- completed Datsun Sunny Truck B120 3D-print package with blueprint, STL/3MF/SCAD assets, body/chassis/wheels/axles and print handoff material; this is a printable display-model asset, not a road-vehicle engineering design
 - 1978–79 Datsun ute heritage/accessory micro-product concept
 
 No object receives a dedicated product repository until it has controlled CAD/specification/BOM/test/supplier evidence and relevant safety/IP/manufacturing review.
@@ -503,6 +507,7 @@ Keep the existing queue; do not duplicate it:
 - `on-track-work-value`
 - `on-track-shelter-command-centre` — future/planned
 - `on-track-small-business-sales-kit` — only after clean generic template
+- recover the existing LIFE 0.0 archive into `tracey727-on-track-life-navigator` after source/test verification
 - recover `genevieve-main-command-centre`, `genevieve-core-platform`, `genevieve-animal-health-bridge` only from verified archived packages/checksums
 
 GENEVIEVE Move and the physical/3D incubator do **not** require new runtime repositories yet.
@@ -520,7 +525,10 @@ GENEVIEVE Move and the physical/3D incubator do **not** require new runtime repo
 7. Keeps old emergency dashboards as lineage beneath Nature Has No Borders.
 8. Keeps personal correspondence, complaints and private records out of the commercial ecosystem.
 9. Records SEISMIC as already correctly placed.
-10. Keeps Revenue Rescue untouched.
+10. Recovers ON TRACK Margin Guard™ into the Finance/Enterprise portfolio map without merging it into Revenue Rescue.
+11. Corrects Life Navigator from "reserved/not built" to "archived LIFE 0.0 source exists / recovery required".
+12. Classifies the ON TRACK Bookkeeping System as internal business control rather than a customer product.
+13. Keeps Revenue Rescue untouched.
 
 ---
 
