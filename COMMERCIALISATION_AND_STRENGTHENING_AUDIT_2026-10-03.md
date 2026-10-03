@@ -245,3 +245,14 @@ The connected GitHub tool currently cannot create brand-new repositories. These 
 - Recover Childcare as one sector command-centre family, not dozens of mini-apps.
 - Create Lens Saver as the new Vision / Optical standalone consumer product.
 
+
+---
+
+# I. Portfolio cleanup addendum — newly routed opportunities
+
+- **Shelter Command Centre™ / Nobody Left Behind** — future standalone housing-support operations family; issue #13; future private target `on-track-shelter-command-centre`. Preserve case ownership/follow-up/outcome accountability. Older compatibility research remains separately governed and is not implemented by this cleanup.
+- **GENEVIEVE Move** — Enterprise / Operations configuration; issue #14. Preserve relocation/logistics coordination scope without creating another shared core or repository until a named buyer/pilot exists.
+- **ON TRACK Small Business Sales Kit** — productisation candidate; issue #15. Define a generic catalogue/order/payment/custom-work workflow from reusable patterns while keeping client-specific content/data separate. Suggested future repo only after the generic boundary is clean: `on-track-small-business-sales-kit`.
+- **Physical / 3D Fabrication incubator** — issue #16. Keep the completed small-car package, 1978–79 Datsun accessory concept and other physical products in one incubator. Dedicated repos require controlled CAD/specification/BOM/test/supplier evidence.
+
+Full routing record: `PORTFOLIO_CLEANUP_ADDENDUM_2026-10-03.md`.

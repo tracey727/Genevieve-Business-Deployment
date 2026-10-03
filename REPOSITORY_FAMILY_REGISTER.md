@@ -238,3 +238,18 @@ Additional preserved source:
 - `Budget-cookbook-`: issue #5 tracks privacy/branch-protection and safe deletion of fully absorbed branches.
 - Food Safety V15: issue #3 in this repository tracks creation of its dedicated canonical repository.
 
+
+---
+
+## 20. Planned / uninstantiated portfolio families
+
+These are intentionally recorded even though they are **not among the 119 existing repositories**.
+
+| Planned family / configuration | Repository status | Role |
+|---|---|---|
+| ON TRACK — Shelter Command Centre™ / Nobody Left Behind | **PLANNED / ISSUE #13** | Future housing-support operations family; target `on-track-shelter-command-centre`; no runtime claim yet |
+| GENEVIEVE Move | **CONFIGURATION / ISSUE #14** | Enterprise Operations relocation/logistics coordination; no dedicated repo until a named buyer/pilot |
+| ON TRACK Small Business Sales Kit | **PRODUCTISATION CANDIDATE / ISSUE #15** | Generic extraction from bespoke sales/catalogue/order work; client-specific data/content stays separate |
+| Physical / 3D Fabrication incubator | **INCUBATOR / ISSUE #16** | One family for CAD/spec/BOM/test provenance; includes Datsun heritage-accessory micro-product candidate |
+
+**SEISMIC note:** GENEVIEVE SEISMIC™ is already documented inside `genevieve-nature-no-borders` as a future extension. Do not create a duplicate SEISMIC repository during cleanup.
