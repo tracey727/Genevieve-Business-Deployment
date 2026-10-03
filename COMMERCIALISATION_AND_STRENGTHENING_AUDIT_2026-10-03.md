@@ -273,3 +273,8 @@ Key corrections/additions:
 - keeps private correspondence, complaints and personal evidence out of the commercial product register;
 - confirms GENEVIEVE SEISMIC™ is already correctly routed inside Nature Has No Borders;
 - leaves Revenue Rescue untouched.
+
+- late-period sweep also surfaced **ON TRACK Margin Guard™** as a distinct local-first job-margin pilot; route it to Finance / Enterprise and keep it separate from Revenue Rescue;
+- **ON TRACK Life Navigator** has a real LIFE 0.0 archived source package, so its status is recovery/verification rather than "not yet built";
+- **ON TRACK Bookkeeping System** is internal founder/business administration, not a customer product;
+- the Datsun B120 work is now recorded as an actual fabrication asset package rather than only an idea.
