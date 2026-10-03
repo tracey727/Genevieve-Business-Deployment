@@ -284,7 +284,7 @@ These were present in repos/files but underrepresented in the master family tree
 - Grounded
 - Restore
 - My-psych / private Safe Connection
-- **ON TRACK Life Navigator — RECOVERY SOURCE IDENTIFIED.** The reserved GitHub repository is stale: the Library contains `on-track-life-navigator-life-00.zip`, a LIFE 0.0 Foundation & Safety Boundary source package with Cloudflare Worker code, Neon migration, tests, architecture and safety documentation. Recover and verify the exact archive into the reserved repository before deployment; do not merge it with Health Navigator, Life Companion, LISTENS or ADHD by name alone.
+- **ON TRACK Life Navigator — RECOVERY SOURCE IDENTIFIED.** The Library contains `on-track-life-navigator-life-00.zip`, a LIFE 0.0 Foundation & Safety Boundary source package with Cloudflare Worker code, Neon migration, tests, architecture and safety documentation. The placeholder repository README has now been corrected to recovery-pending status; issue #18 tracks importing and verifying the exact archived source before deployment. Do not merge it with Health Navigator, Life Companion, LISTENS or ADHD by name alone.
 - SafeLife™ — regulated hold
 
 ### LISTENS boundary
@@ -507,7 +507,7 @@ Keep the existing queue; do not duplicate it:
 - `on-track-work-value`
 - `on-track-shelter-command-centre` — future/planned
 - `on-track-small-business-sales-kit` — only after clean generic template
-- recover the existing LIFE 0.0 archive into `tracey727-on-track-life-navigator` after source/test verification
+- recover the existing LIFE 0.0 archive into `tracey727-on-track-life-navigator` after source/test verification — tracked by issue #18
 - recover `genevieve-main-command-centre`, `genevieve-core-platform`, `genevieve-animal-health-bridge` only from verified archived packages/checksums
 
 GENEVIEVE Move and the physical/3D incubator do **not** require new runtime repositories yet.
