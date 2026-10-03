@@ -1,21 +1,23 @@
-# GENEVIEVE App™ — Organised Business Deployment Folder
+# GENEVIEVE App™ — Historical Business Deployment Archive
 
-Date organised: 2026-07-10
+**Status: ARCHIVE / REFERENCE ONLY**
 
-This folder organises the current project zips into a business deployment order.
+This repository is the organised deployment snapshot created on **2026-07-10**. It preserves historical ZIP packages, company master files and prototype bundles for provenance and recovery.
 
-Dog Park is treated as finished and is kept only as reference. Do not mix Dog Park deployment files into the next business deployments.
+It is **not** the current deployment queue and must not be used to decide which GENEVIEVE product is current.
 
-## Folder order
+## Current repository rule
 
-1. `00_START_HERE` — read first, deployment order and GitHub/Vercel rule.
-2. `01_COMPANY_MASTER_FILES` — company overview, launch checklist, Dog Park carryover rules.
-3. `02_ACTIVE_DEPLOYMENTS_NEXT` — next app to deploy. Current next active deployment is Food Safety V15 No-Guess.
-4. `03_PRODUCT_PROTOTYPES_NEXT` — product prototypes to continue later.
-5. `04_LEGAL_PRIVACY_SAFETY_TEMPLATES` — reserved for reviewed legal/policy templates.
-6. `05_DOG_PARK_FINISHED_REFERENCE_DO_NOT_DEPLOY` — finished Dog Park reference only.
-7. `06_ARCHIVE_OLD_SUPERSEDED` — old or duplicate files. Do not deploy unless reviewed.
+- Continue active development in the named canonical product repository, not from a ZIP in this archive.
+- Do not redeploy old Dog Park, Kennels or Animal snapshots from this repository.
+- Current GENEVIEVE Animals / Animal Sense family index: `tracey727/Genevieve-Animals-Dog-Parks-App`.
+- Current Dog Park source: `tracey727/Genevieve-Tracey-Gruff-dog-park-app`.
+- Current Kennels / Catteries source: `tracey727/Genevieve-Tracey-kennels-live-demo`.
+- ON TRACK by TRACE platform direction is GitHub + Cloudflare + Neon where persistence is required.
+- Any Vercel/Netlify instructions inside historical ZIPs are archive evidence only and are not the current deployment standard.
 
-## Next action
+## Preservation rule
 
-Open `00_START_HERE/READ_FIRST_DEPLOYMENT_ORDER.md`.
+Do not delete the archived ZIPs merely because a newer repository exists. They may contain historical design, evidence or recovery material. Review and extract unique material only when there is a specific need.
+
+The original organised manifest remains in `GENEVIEVE_ORGANISED_MANIFEST.json` as a historical record of the July 2026 archive.
