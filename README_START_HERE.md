@@ -33,3 +33,7 @@ The original organised manifest remains in `GENEVIEVE_ORGANISED_MANIFEST.json` a
 ## Account-wide repository family register
 
 The current GitHub cleanup source of truth is `REPOSITORY_FAMILY_REGISTER.md`. It classifies all 119 owned repositories by family and status and records the remaining manual GitHub-admin actions.
+
+## Commercialisation and strengthening audit
+
+Use `COMMERCIALISATION_AND_STRENGTHENING_AUDIT_2026-10-03.md` for the current decisions on which programs should become standalone businesses, which should strengthen existing canonical repositories, and which concepts should remain incubated/held.
