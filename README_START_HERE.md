@@ -29,3 +29,7 @@ The original organised manifest remains in `GENEVIEVE_ORGANISED_MANIFEST.json` a
 - Animal Developer Handover / Technical Architecture V1 is preserved as Animal Sense engineering-reference material and is now indexed by the same family repository.
 - Food Safety V15 No-Guess is a unique standalone product package with no dedicated canonical repository yet. Preserve it here until a dedicated repository is deliberately created and its deployment is migrated/verified for the current platform standard.
 - The folder name `02_ACTIVE_DEPLOYMENTS_NEXT` is historical. Nothing in that folder should be assumed to be the current deployment queue merely because of the directory name.
+
+## Account-wide repository family register
+
+The current GitHub cleanup source of truth is `REPOSITORY_FAMILY_REGISTER.md`. It classifies all 119 owned repositories by family and status and records the remaining manual GitHub-admin actions.
