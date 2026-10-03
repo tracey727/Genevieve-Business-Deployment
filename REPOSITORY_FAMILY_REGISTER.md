@@ -114,7 +114,7 @@ Additional preserved source:
 | `Restore` | **ACTIVE SIBLING** |
 | `genevieve-medication-safety` | **ACTIVE SIBLING** governed medication-safety product |
 | `on-track-support-competency` | **ACTIVE SIBLING** worker/support competency product |
-| `tracey727-on-track-life-navigator` | **RECOVERY TARGET — LIFE 0.0 ARCHIVED SOURCE EXISTS** — current repo is a placeholder; recover and verify `on-track-life-navigator-life-00.zip` before deployment |
+| `tracey727-on-track-life-navigator` | **RECOVERY TARGET — LIFE 0.0 ARCHIVED SOURCE EXISTS** — README corrected to recovery-pending; issue #18 tracks recovery and verification of `on-track-life-navigator-life-00.zip` before deployment |
 
 ## 8. Council family
 | Repository | Role |
@@ -289,6 +289,6 @@ Full cross-conversation and file routing: `FULL_CONVERSATION_FILE_ECOSYSTEM_RECO
 | File / product | Ecosystem home | Treatment |
 |---|---|---|
 | ON TRACK Margin Guard™ | Finance / Enterprise | **PILOT SOURCE EXISTS** — job-margin leakage decision support; separate from Revenue Rescue; no dedicated repo yet |
-| ON TRACK Life Navigator LIFE 0.0 | Health / Personal Support / Life Navigation | **RECOVERY SOURCE EXISTS** — exact archived Worker/Neon/tests/docs package must be recovered into the reserved repo and verified |
+| ON TRACK Life Navigator LIFE 0.0 | Health / Personal Support / Life Navigation | **RECOVERY SOURCE EXISTS / ISSUE #18** — exact archived Worker/Neon/tests/docs package must be recovered and verified before runtime/deployment claims |
 | ON TRACK Bookkeeping System | ON TRACK Internal Control | **INTERNAL BUSINESS TOOL** — not a customer product |
 | Datsun Sunny Truck B120 3D package | Physical / 3D Fabrication | **CONTROLLED FABRICATION ASSET** — blueprint/STL/3MF/SCAD/print package; not road-vehicle engineering |
