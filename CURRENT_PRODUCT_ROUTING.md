@@ -52,6 +52,8 @@ No other repository currently contains this Food Safety V15 product.
 
 Status: **UNIQUE — DO NOT DELETE.** Create a dedicated private canonical repository before further build/deployment. When extracted, migrate deployment deliberately to GitHub + Cloudflare; do not carry forward the archived Netlify/Vercel deployment files as active configuration.
 
+Exact extraction inventory and provenance: `02_ACTIVE_DEPLOYMENTS_NEXT/FOOD_SAFETY_V15_EXTRACTION_MANIFEST.md`.
+
 ## Archive rule
 
 The old folder names and July manifest are historical evidence. Do not use `02_ACTIVE_DEPLOYMENTS_NEXT` or the 2026-07-10 manifest as the current product priority list.
