@@ -57,3 +57,30 @@ Exact extraction inventory and provenance: `02_ACTIVE_DEPLOYMENTS_NEXT/FOOD_SAFE
 ## Archive rule
 
 The old folder names and July manifest are historical evidence. Do not use `02_ACTIVE_DEPLOYMENTS_NEXT` or the 2026-07-10 manifest as the current product priority list.
+
+
+---
+
+## Portfolio-routed concepts with no separate runtime yet — 3 October 2026
+
+### ON TRACK — Shelter Command Centre™ / Nobody Left Behind
+Issue #13. Future private target: `on-track-shelter-command-centre`.
+
+Status: **PRESERVE / FORMALISE FAMILY — NO RUNTIME CLAIM**. Route housing-support case ownership, follow-up and outcome accountability here. Older compatibility research stays separately governed and is not implemented by this cleanup.
+
+### GENEVIEVE Move
+Issue #14.
+
+Status: **ENTERPRISE OPERATIONS CONFIGURATION — NO NEW CORE REPOSITORY**. Preserve quotations/inventories, approvals/permits, route/clearance/weather coordination, vehicles/crews/equipment, communications, execution/sign-off and reporting. Coordination software only.
+
+### ON TRACK Small Business Sales Kit
+Issue #15.
+
+Status: **PRODUCTISATION CANDIDATE — CLEAN GENERIC TEMPLATE FIRST**. Reuse generic catalogue/order/payment/custom-work patterns from bespoke projects without copying client-specific content or data. Future target: `on-track-small-business-sales-kit` only after that boundary is clean.
+
+### Physical / 3D Fabrication incubator
+Issue #16.
+
+Status: **INCUBATOR — ENGINEERING/TEST GATE BEFORE DEDICATED PRODUCT REPOS**. Route the completed small-car package and 1978–79 Datsun ute accessory concept here. Create product repositories only when controlled CAD/spec/BOM/test evidence exists.
+
+Full record: `PORTFOLIO_CLEANUP_ADDENDUM_2026-10-03.md`.
