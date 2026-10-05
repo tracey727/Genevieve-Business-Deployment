@@ -12,13 +12,13 @@ This register is deliberately evidence-based. A module is not marked PRESENT mer
 |---|---|---|---|---|---|
 | Identity / authentication / role permissions | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.04 documents Cloudflare Access + Neon site RBAC. Re-run acceptance tests before production claim. |
 | Tenant / organisation / site isolation | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | Site-scoped RBAC and least-privilege Neon runtime are documented. Keep fail-closed isolation tests in acceptance gate. |
-| Universal alert engine: RED / AMBER / GREEN / HOLD | PARTIAL | PARTIAL | CONFIG-ONLY | CONFIG-ONLY | Universal vocabulary exists, but end-to-end propagation/display remains the current repair target. No GREEN claim until every applicable ledger/module reflects operational state. |
+| Universal alert engine: RED / AMBER / GREEN / HOLD | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.13 repaired governed-record authority; H9.16 verifies state → resolver → dashboard → ownership/escalation/evidence for Westmead. |
 | Evidence ledger / immutable audit trail | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | Persistent record/history and action audit identity are implemented; verify append-only behaviour in acceptance pass. |
 | Action ownership / due dates / escalation | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.02 action catalogue is live; verify due/escalation presentation against all operational modules. |
 | Executive decision & commitment capture | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H8-series decision/work-capture capability is part of the active Healthcare build; verify configuration exposure. |
-| Safety / security / incident controls | PARTIAL | PARTIAL | CONFIG-ONLY | CONFIG-ONLY | Current proving-ground priority. Safety/security must be wired to actual ledgers, evidence and alert states, not decorative cards. |
-| Workforce / coverage / competency status | PARTIAL | PARTIAL | CONFIG-ONLY | CONFIG-ONLY | Module exists in Healthcare lineage; verify alert propagation, ownership and evidence end-to-end. |
-| Facilities / utilities / preventive maintenance | PARTIAL | PARTIAL | CONFIG-ONLY | CONFIG-ONLY | Module exists; verify utilities/fault/readiness alert rules and evidence closure. |
+| Safety / security / incident controls | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.16 verifies shared Safety/Security operational contracts, governed alert state, owners and closure evidence; prohibited autonomous/tactical actions remain excluded. |
+| Workforce / coverage / competency status | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.16 verifies Workforce alert propagation plus governed competency/staff-safety ownership and evidence requirements. |
+| Facilities / utilities / preventive maintenance | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.16 verifies Facilities alert path; governed work orders require owner/due/status/alert and evidence-backed closure. |
 | External review / submission tracking | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H7.8 lineage established; verify site configuration and evidence links. |
 | Integration health / fail-closed bridges | PARTIAL | PARTIAL | CONFIG-ONLY | CONFIG-ONLY | Architecture requires fail-closed bridges; perform contract/error-state verification before PRESENT acceptance. |
 | Export / reporting / evidence packs | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | Reporting/evidence-pack lineage exists; verify current routes and permissions. |
@@ -36,9 +36,8 @@ This register is deliberately evidence-based. A module is not marked PRESENT mer
 
 ## Next controlled pass
 
-1. Audit the active Healthcare engine module-by-module, beginning with universal alerts, Safety, Security, Workforce and Facilities.
-2. For each PARTIAL row, trace: source state → rule evaluation → alert state → ledger/card display → ownership/escalation → evidence/audit.
-3. Repair only the broken link; do not redesign unrelated UI or modules.
-4. Run tests/CI and verify the live or preview environment.
-5. Promote a row from PARTIAL to PRESENT only after the acceptance evidence is recorded.
-6. Once Westmead is GREEN, propagate the proven contracts to Coomera and Burnie, then extend this matrix to Council, Enterprise/Usher, Arena, Animals/Kennels, Emergency and other applicable families.
+1. Westmead H9.13/H9.16 has closed the first proving-ground alert/Safety/Security/Workforce/Facilities pass.
+2. Verify Coomera and Burnie inherit the proven contracts strictly by configuration, without claiming live customer deployment or external approval.
+3. Continue the remaining Healthcare PARTIAL rows: integration health/fail-closed bridges and data retention/deletion/privacy controls.
+4. Run tests/CI and record acceptance evidence before any promotion to PRESENT.
+5. Then extend the verified Shared Core contracts to Council, Enterprise/Usher, Arena, Animals/Kennels, Emergency and other applicable families.
