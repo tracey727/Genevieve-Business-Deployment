@@ -1,5 +1,7 @@
 # ON TRACK by TRACE / GENEVIEVE — Business Link Architecture
 
+> **Superseded as the complete portfolio map:** use `GENEVIEVE_COMPLETE_ECOSYSTEM_INTEGRATION_REGISTER_2026-10-05.md` for the full ecosystem. This file remains the business-link architecture summary.
+
 Date: 5 October 2026  
 Status: **CANONICAL PORTFOLIO LINK MAP**
 
