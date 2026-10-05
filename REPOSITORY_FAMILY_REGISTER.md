@@ -292,3 +292,19 @@ Full cross-conversation and file routing: `FULL_CONVERSATION_FILE_ECOSYSTEM_RECO
 | ON TRACK Life Navigator LIFE 0.0 | Health / Personal Support / Life Navigation | **RECOVERY SOURCE EXISTS / ISSUE #18** — exact archived Worker/Neon/tests/docs package must be recovered and verified before runtime/deployment claims |
 | ON TRACK Bookkeeping System | ON TRACK Internal Control | **INTERNAL BUSINESS TOOL** — not a customer product |
 | Datsun Sunny Truck B120 3D package | Physical / 3D Fabrication | **CONTROLLED FABRICATION ASSET** — blueprint/STL/3MF/SCAD/print package; not road-vehicle engineering |
+
+
+---
+
+## 23. Live repository delta reconciliation — 5 October 2026
+
+The owned-repository count is now **123**. The four repositories below were not part of the 119-repository 3 October register and are now routed without reopening the completed account-wide discovery.
+
+| Repository | Ecosystem home | Treatment |
+|---|---|---|
+| `genevieve-core-platform` | GENEVIEVE Shared Core / Healthcare proving ground | **CANONICAL ACTIVE RECOVERY / SHARED CORE LINEAGE** — substantial implementation; currently also hosts the Healthcare & Mental Health Command Centre proving-ground runtime and site configurations. |
+| `-genevieve-core-platform` | GENEVIEVE Shared Core | **EMPTY HISTORICAL PLACEHOLDER / HOLD** — README-only placeholder; do not develop here and do not delete until provenance/admin cleanup is deliberately approved. |
+| `Healthcare` | Healthcare family | **EMPTY RESERVED / HOLD** — no runtime content on `main`; do not treat as canonical while the active Healthcare proving-ground implementation remains in `genevieve-core-platform`. |
+| `Book-keeping-for-ON-TRACK-by-TRACE` | ON TRACK Internal Control | **ACTIVE INTERNAL BUSINESS TOOL** — bookkeeping/BAS/tax-estimate workflow; GitHub + Cloudflare + Neon direction. Not a customer product by default. Default branch is currently a Claude build branch and requires later admin/branch-normalisation review. |
+
+**Delta reconciliation result:** 123 / 123 owned repositories now have an ecosystem route at the master-register level. This does **not** mean physical archive/delete/default-branch cleanup is complete.
