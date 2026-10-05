@@ -20,10 +20,10 @@ This register is deliberately evidence-based. A module is not marked PRESENT mer
 | Workforce / coverage / competency status | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.16 verifies Workforce alert propagation plus governed competency/staff-safety ownership and evidence requirements. |
 | Facilities / utilities / preventive maintenance | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H9.16 verifies Facilities alert path; governed work orders require owner/due/status/alert and evidence-backed closure. |
 | External review / submission tracking | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H7.8 lineage established; verify site configuration and evidence links. |
-| Integration health / fail-closed bridges | PARTIAL | PARTIAL | CONFIG-ONLY | CONFIG-ONLY | Architecture requires fail-closed bridges; perform contract/error-state verification before PRESENT acceptance. |
+| Integration health / fail-closed bridges | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H4 synthetic E2E verifies tenant/site isolation and fail-closed bridge behaviour; H9.17 adds explicit revocable bridge authorisation to the runtime contract/validator. Customer-specific adapters remain separately gated. |
 | Export / reporting / evidence packs | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | Reporting/evidence-pack lineage exists; verify current routes and permissions. |
 | Configuration registry / feature flags | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | Site/jurisdiction configuration is active; keep customer/site configuration separate from shared module source. |
-| Data retention / deletion / privacy controls | PARTIAL | PARTIAL | CONFIG-ONLY | CONFIG-ONLY | Do not claim complete privacy lifecycle until retention/deletion tests and policy mapping are verified. |
+| Data retention / deletion / privacy controls | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H7.1/H7.2 framework is implemented and tested: legal hold blocks deletion, reason + authorised execution are required, automatic deletion is prohibited, and the synthetic deletion drill is GREEN. Customer-specific privacy/retention approval remains HOLD and is not implied by PRESENT platform capability. |
 | Operational readiness / commissioning / defects | PRESENT | PRESENT | CONFIG-ONLY | CONFIG-ONLY | H8.38 readiness is live; verify downstream configuration propagation before cross-family reuse. |
 
 ## Interpretation
@@ -38,6 +38,6 @@ This register is deliberately evidence-based. A module is not marked PRESENT mer
 
 1. Westmead H9.13/H9.16 has closed the first proving-ground alert/Safety/Security/Workforce/Facilities pass.
 2. Verify Coomera and Burnie inherit the proven contracts strictly by configuration, without claiming live customer deployment or external approval.
-3. Continue the remaining Healthcare PARTIAL rows: integration health/fail-closed bridges and data retention/deletion/privacy controls.
-4. Run tests/CI and record acceptance evidence before any promotion to PRESENT.
-5. Then extend the verified Shared Core contracts to Council, Enterprise/Usher, Arena, Animals/Kennels, Emergency and other applicable families.
+3. H4/H9.17 closes the platform-level integration/fail-closed bridge row; H7.1/H7.2 closes the platform-level retention/deletion/privacy-control row while customer approvals remain external HOLD gates.
+4. Run/retain CI and acceptance evidence for all promoted rows.
+5. Healthcare proving-ground platform rows are now closed; next extend the verified Shared Core contracts to Council, Enterprise/Usher, Arena, Animals/Kennels, Emergency and other applicable families.
