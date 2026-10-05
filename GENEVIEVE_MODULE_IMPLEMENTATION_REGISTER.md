@@ -41,3 +41,20 @@ This register is deliberately evidence-based. A module is not marked PRESENT mer
 3. H4/H9.17 closes the platform-level integration/fail-closed bridge row; H7.1/H7.2 closes the platform-level retention/deletion/privacy-control row while customer approvals remain external HOLD gates.
 4. Run/retain CI and acceptance evidence for all promoted rows.
 5. Healthcare proving-ground platform rows are now closed; next extend the verified Shared Core contracts to Council, Enterprise/Usher, Arena, Animals/Kennels, Emergency and other applicable families.
+
+
+## Cross-family adoption pass — 5 October 2026
+
+| Family / canonical repository | Adoption state | Verified position |
+|---|---|---|
+| Council Operations Centre | PRESENT | Canonical four-state alerts, evidence-gated closure, accountable RED/AMBER ownership, fail-closed versioned bridge, tamper-evident audit contract and Council-specific retention/deletion controls are implemented. Customer/live deployment approvals remain external gates. |
+| Enterprise / Usher demo | PARTIAL | Alert vocabulary aligned to RED/AMBER/GREEN/HOLD and actionable items fail closed to HOLD without owner + due time. Static synthetic demo remains intentionally non-persistent; live enterprise integrations are not claimed. |
+| Gold Coast Arena | PRESENT | Strong evidence/readiness/work-order controls already existed; issued/progressed work now requires accountable ownership. Public-prototype/live-data HOLD boundary preserved. |
+| Animals — Kennels / Catteries | PARTIAL | Facility isolation, roles, audit, safety and evidence controls exist. Legacy YELLOW state migrated to canonical AMBER. Live Neon/Hyperdrive, retention/recovery and external legal/veterinary/WHS/privacy gates remain HOLD. |
+| Animals — Dog Park | PARTIAL | Existing RLS, local-first privacy, encrypted storage and fail-closed provider behaviour preserved. Shared status concepts are adopted selectively; emergency “hold 3 seconds” gesture is explicitly not the HOLD alert state. |
+| Emergency — Nature Has No Borders | PRESENT | Shared governance pattern already mature: organisation isolation, human authority, evidence, append-only chronology and fail-closed states. External accreditation/agency operating authority remains HOLD. |
+| Government Financial Integrity / ON TRACK Australia | PARTIAL | Architecture correctly declares Shared Core capabilities and strict product isolation. Runtime adapters remain HOLD until a specific authorised integration target exists. Revenue Rescue remains standalone. |
+
+### Cross-family conclusion
+
+The first controlled Shared Core propagation pass is complete for Healthcare, Council, Enterprise/Usher, Arena, Animals/Kennels/Dog Park and Emergency. Remaining PARTIAL states above are deliberate where live infrastructure, customer policy, external approval or product-specific runtime integration is not truthfully established. Do not convert these external gates into code-only GREEN claims.
