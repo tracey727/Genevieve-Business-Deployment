@@ -2,7 +2,7 @@
 
 **Account:** tracey727  
 **Audit date:** 3 October 2026  
-**Coverage:** 119 / 119 owned repositories classified  
+**Coverage:** master family routing complete; live connected repository inventory reconciled through 5 October 2026  
 **Platform direction:** GitHub + Cloudflare + Neon where persistence is required.  
 **Protected boundary:** ordinary repository cleanup must not modify `Revenue-Rescue`.
 
@@ -298,7 +298,7 @@ Full cross-conversation and file routing: `FULL_CONVERSATION_FILE_ECOSYSTEM_RECO
 
 ## 23. Live repository delta reconciliation — 5 October 2026
 
-The owned-repository count is now **123**. The four repositories below were not part of the 119-repository 3 October register and are now routed without reopening the completed account-wide discovery.
+The 5 October delta added the four repositories below to the 3 October master register. The current GitHub connector exposes a smaller live owner inventory than the earlier 123-repository snapshot, so repository counts must no longer be treated as a deletion/completeness signal. The family routing remains the source of truth and live inventory is reconciled by repository identity, not by forcing a stale count.
 
 | Repository | Ecosystem home | Treatment |
 |---|---|---|
@@ -307,4 +307,19 @@ The owned-repository count is now **123**. The four repositories below were not 
 | `Healthcare` | Healthcare family | **EMPTY RESERVED / HOLD** — no runtime content on `main`; do not treat as canonical while the active Healthcare proving-ground implementation remains in `genevieve-core-platform`. |
 | `Book-keeping-for-ON-TRACK-by-TRACE` | ON TRACK Internal Control | **ACTIVE INTERNAL BUSINESS TOOL** — bookkeeping/BAS/tax-estimate workflow; GitHub + Cloudflare + Neon direction. Not a customer product by default. Default branch is currently a Claude build branch and requires later admin/branch-normalisation review. |
 
-**Delta reconciliation result:** 123 / 123 owned repositories now have an ecosystem route at the master-register level. This does **not** mean physical archive/delete/default-branch cleanup is complete.
+**Delta reconciliation result:** the known owned repositories have an ecosystem route at the master-register level. Physical archive/delete/default-branch cleanup remains a separate repository-admin task. Do not infer that a repository was deleted merely because it is absent from a later connector inventory.
+
+
+---
+
+## 24. Final consolidation rule — 5 October 2026
+
+The canonical business-link map is `GENEVIEVE_BUSINESS_LINK_ARCHITECTURE_2026-10-05.md`.
+
+From this point:
+- no new development starts in a repository marked HISTORICAL / REFERENCE / ALIAS / PLACEHOLDER;
+- canonical products may consume Shared Core contracts, but customer data/secrets remain isolated;
+- repository count is not a success metric;
+- do not delete provenance simply to make GitHub look tidy;
+- archive/default-branch/visibility/protection operations that require repository administration remain explicit manual gates;
+- Revenue Rescue remains protected and standalone.
